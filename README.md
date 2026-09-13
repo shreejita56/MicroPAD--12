@@ -19,8 +19,12 @@ My micropad that has 9 main switches with keyboar matrix and 3 switches to chang
 ## PCB 
 
 
+<img width="513" height="648" alt="Screenshot 2026-09-13 144145" src="https://github.com/user-attachments/assets/683f70a0-43c1-45c4-a477-86455eb15377" />
+
 
 ## CAD 
+<img width="931" height="730" alt="Screenshot 2026-09-13 144045" src="https://github.com/user-attachments/assets/1b38f3f3-c1ef-4ed8-bcf9-46d81d49d6e3" />
+
 
 
 
