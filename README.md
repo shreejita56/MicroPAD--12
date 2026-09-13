@@ -13,7 +13,18 @@ My micropad that has 9 main switches with keyboar matrix and 3 switches to chang
 <img width="4080" height="3072" alt="IMG20260912174159" src="https://github.com/user-attachments/assets/5836f91d-7ba4-4704-8912-bf013835e1f2" />
 <img width="4080" height="3072" alt="IMG20260913040739" src="https://github.com/user-attachments/assets/c3ad564d-2c29-4b07-b6f7-1c3dbda8b077" />
 
-## Video here 
+## Schematics
+<img width="1058" height="658" alt="Screenshot 2026-09-13 142936" src="https://github.com/user-attachments/assets/f3fe67a5-899a-4d4c-9baa-59c8a63f71b4" />
+
+## PCB 
+
+
+
+## CAD 
+
+
+
+## DEMO Video here 
 
 https://youtube.com/shorts/AE6_kx5s8Bg?si=U470WX6AnX4e_jCt
 
